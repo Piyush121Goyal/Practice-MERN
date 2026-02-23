@@ -12,4 +12,4 @@ const userSchema=mongoose.Schema({
 module.exports = mongoose.model("user", userSchema)
 //model is created and needed for CRUD operations, without creating model we cant do crud operations
 
-//not there 
+//uby
